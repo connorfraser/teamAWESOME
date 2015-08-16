@@ -1,0 +1,31 @@
+.allcontent {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.headerlogo {
+}
+.navigationbar button {
+	font-family: american typewriter;
+	font-size: 100%; 
+	background-color: #6395F3; 
+	border-style: outset;
+	border-radius: 15px;
+	border-width: 5px;
+	border-color: #9DBEFA;
+	width: 200px;
+	height: 50px;
+}
+
+.secondtitlebox {
+	width: inherit; 
+	height: 700px;
+	background-color: #6395F3;
+	margin-top: 10px;
+}
+
+#secondtitleimage {
+	float: right;
+	height: inherit;
+}
