@@ -86,7 +86,7 @@
 
 .footer .footerimage {
 	width: 400px;
-	height: 150px;
+	height: 60px;
 	float: left;
 	background-color: #8F9CF5;
 }
@@ -98,7 +98,7 @@
 	border-style: none;
 	font-size: 15pt;
 	width: 233.333px;
-	height: 75px;
+	height: 30px;
 	float: right;
 	display: inline;
 }
