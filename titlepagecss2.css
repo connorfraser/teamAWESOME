@@ -18,7 +18,7 @@
 }
 
 .enclose {
-	background-image: url("../Sublime Text 3/Images/schoolchildren.jpg");
+	background-image: url("http://i.imgur.com/NTBFWqQ.jpg");
 	width: 1100px;
 	height: 700px;
 	margin-top: 10px;
@@ -81,12 +81,14 @@
 	width: 1100px;
 	height: 150px;
 	background-color: #8F9CF5;
+	display: block;
 }
 
 .footer .footerimage {
 	width: 400px;
 	height: 150px;
 	float: left;
+	background-color: #8F9CF5;
 }
 
 .footer .footerlinks button {
@@ -99,4 +101,10 @@
 	height: 75px;
 	float: right;
 	display: inline;
+}
+
+.missionstatement {
+	width: 1100px;
+	height: 1400px;
+	background-color: #90F5EB;
 }
