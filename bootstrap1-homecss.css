@@ -1,0 +1,33 @@
+.navbar {
+	height: 100px;
+	position: fixed;
+}
+.navbar-header {
+	height: 100px;
+	width: 400px;
+}
+#brand {
+	margin-top: -15px;
+	margin-left: -15px;
+}
+.navbar .container-fluid .btn {
+	margin: 25px;
+}
+.jumbotron {
+	height: 1000px;
+	margin-top: -20px;
+	background-image: url("img/schoolhouse.jpg");
+	-webkit-filter: brightness(0.8) grayscale(0.9) opacity(0.8) saturate(1.4) sepia(0.4);
+}
+.intro {
+	font-family: apple chancery;
+	font-size: 50px;
+	text-align: center;
+	margin-top: 380px;
+	height: 30px;
+}
+.jumbotron .intro .span {
+	color: #000000;
+}
+
+
