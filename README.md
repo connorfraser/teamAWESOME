@@ -1,2 +1,0 @@
-# teamAWESOME
-website development project
