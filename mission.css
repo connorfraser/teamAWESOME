@@ -1,0 +1,26 @@
+.content-wrapper
+{
+	border-style: solid;
+	border-color: grey;
+	border-width: 1px;
+	border-spacing: 15px;
+	border-radius: 15px;
+
+}
+.content-wrapper img{
+	width: 150px;
+	height: 150px;
+}
+
+
+#special {
+	background: url("https://inserttravelrelatedblognamehere.files.wordpress.com/2012/07/budapest-flea-market.jpg");
+}
+
+#special2 {
+	background: url("http://www.africa-do-business.com/images/Internet-cafe-village.jpg");
+}
+
+#special3 {
+	background: url("https://computeraidinternational.files.wordpress.com/2012/06/cistercian4.jpg");
+}
