@@ -36,6 +36,46 @@
 	margin-top: 100px;
 }
 
+.row {
+	margin-bottom: 10px;
+}
+
+#wwd {
+	text-align: center;
+	background-color: #E2C4EE;
+	margin-top: -30px; 
+	margin-bottom: 30px;
+	height: 85px;
+	width: 1300;
+}
+
+.content {
+	font-size: 30px;
+	text-align: center;
+	margin-top: 20px;
+	margin-left: 20px;
+	width: 1250px;
+}
+#bp {
+	margin-bottom: 50px;
+}
+.subhead {
+	text-align: center;
+}
+
+.glyphicon {
+	font-size: 40px;
+	margin-left: 150px;
+}
+
+#schools {
+	margin-left: 20px;
+}
+
+#community {
+	margin-right: 20px;
+}
+
 
 
 
