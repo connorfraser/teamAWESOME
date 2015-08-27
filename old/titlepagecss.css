@@ -2,11 +2,13 @@
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
+	width: 1100px;
 }
 
 .headerlogo {
 }
-.navigationbar button {
+
+.navigation button {
 	font-family: american typewriter;
 	font-size: 100%; 
 	background-color: #6395F3; 
@@ -18,14 +20,57 @@
 	height: 50px;
 }
 
-.secondtitlebox {
-	width: inherit; 
-	height: 700px;
+.enclose {
+	width: inherit;
+	height:700px;
 	background-color: #6395F3;
-	margin-top: 10px;
+	margin: 10px;
+}
+
+.subenclose1 {
+	height: 350px;
+	width: 450px;
+}
+
+#firsttitleimage {
+	height: 350px;
+	width: 450px;
+	float: left;
 }
 
 #secondtitleimage {
-	float: right;
-	height: inherit;
+	height: 350px;
+	width: 450px;
+	float: left;
+	position: relative;
 }
+.subenclose2 {
+	width: 600px; 
+	height: 650px; 
+	background-color: transparent;
+	border-radius: 30px;
+	border-color: #FF0000;
+	border-width: 10px;
+	border-style: outset;
+	position: absolute;
+	top: 68px;
+	right: 75px;
+	margin: 20px;
+}
+ #interiorspecial {
+ 	width: 400px;
+ 	height: 650px;
+ 	margin: 10px;
+ 	background-color: transparent;
+	border-radius: 30px;
+	border-color: #FF0000;
+	border-width: 10px;
+	border-style: outset;
+ }
+#thirdtitleimage {
+	height: inherit;
+	width: 812px;
+	display: inline;
+}
+
+
