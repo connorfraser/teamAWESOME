@@ -1,6 +1,6 @@
-.navbar {
+.navbar .navbar-default {
 	height: 100px;
-	position: fixed;
+	background-color: #9DF1E4;
 }
 .navbar-header {
 	height: 100px;
@@ -11,23 +11,31 @@
 	margin-left: -15px;
 }
 .navbar .container-fluid .btn {
-	margin: 25px;
+	margin: 30px;
+	display: inline-block;
 }
+
 .jumbotron {
-	height: 1000px;
+	height: 600px;
+	width: inherit;
 	margin-top: -20px;
 	background-image: url("img/schoolhouse.jpg");
 	-webkit-filter: brightness(0.8) grayscale(0.9) opacity(0.8) saturate(1.4) sepia(0.4);
 }
-.intro {
-	font-family: apple chancery;
-	font-size: 50px;
-	text-align: center;
-	margin-top: 380px;
-	height: 30px;
-}
-.jumbotron .intro .span {
+#a, #b {
+	font-size: 40px;
 	color: #000000;
+	text-align: center;
 }
+
+#a {
+	margin-top: 100px;
+}
+
+#b {
+	margin-top: 100px;
+}
+
+
 
 
