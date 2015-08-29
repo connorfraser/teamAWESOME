@@ -4,8 +4,8 @@ body {
 }
 
 img {
-	margin-left: 9px;
-	margin-right: 9px;
+	margin-left: 7px;
+	margin-right: 7px;
 }
 
 p {
@@ -14,4 +14,45 @@ p {
 
 h1 {
 	text-align: center;
+}
+*{
+	padding:0px;
+}
+
+#pc {
+	margin-top: 30px;
+}
+
+.space {
+	margin-top: 50px;
+}
+
+#ektts_wrapper{
+}
+
+.cht {
+	display: inline-block;
+	width: 40%;
+
+}
+
+.ctw{
+	position: relative;
+	width: 80%;
+	height: auto;
+}
+
+.chp{
+	display: inline-block;
+	width: 40%;
+/*	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+*/	
+}
+
+.charity {
+	margin-top: 100px;
+	margin-left: 5%;
+	margin-right: 5%;
 }
