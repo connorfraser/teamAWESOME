@@ -1,6 +1,10 @@
 body {
 	margin-left: 100px;
-	margin-right: 100px;
+	margin-right: 100px;	
+}
+
+html {
+	cursor: url(http://www.rw-designer.com/cursor-preview/35050.png),auto;
 }
 
 img {
@@ -15,7 +19,8 @@ p {
 h1 {
 	text-align: center;
 }
-*{
+
+* {
 	padding:0px;
 }
 
@@ -27,32 +32,32 @@ h1 {
 	margin-top: 50px;
 }
 
-#ektts_wrapper{
+#ektts_wrapper {
 }
 
 .cht {
 	display: inline-block;
-	width: 40%;
+	width: 45%;
 
 }
 
-.ctw{
+.ctw {
 	position: relative;
 	width: 80%;
 	height: auto;
 }
 
-.chp{
+.chp {
 	display: inline-block;
 	width: 40%;
-/*	position: relative;
-	top: 50%;
-	transform: translateY(-50%);
-*/	
+	vertical-align: top;
+	margin-top: 15px;
+
+
 }
 
 .charity {
-	margin-top: 100px;
 	margin-left: 5%;
 	margin-right: 5%;
 }
+   
